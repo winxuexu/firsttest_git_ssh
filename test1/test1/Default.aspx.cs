@@ -13,5 +13,10 @@ namespace test1
         {
 
         }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Label1.Text = "cheshiyixia";
+        }
     }
 }
